@@ -229,7 +229,7 @@ foreach ( $footerlinks as $aLink ) {
               <ul>
                 <li><a href="http://scratch.mit.edu/terms_of_use/">Terms of Use</a></li>
                 <li><a href="http://scratch.mit.edu/privacy_policy/">Privacy Policy</a></li>
-                <li><a href = "http://scratch.mit.edu/DMCA/">DMCA</a></li>
+                <li><a href = "http://scratch-dach.info/wiki/Scratch-Wiki:Impressum">DMCA</a></li>
               </ul>
             </li>
             <li>
@@ -246,6 +246,8 @@ foreach ( $footerlinks as $aLink ) {
           </ul>
 <br>
 <p >Scratch is a project of the Lifelong Kindergarten Group at the MIT Media Lab</p>
+<br><br><br>
+        <a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="http://scratch-dach.info/w/images/d/dd/Cc-by-sa_340x340.png" alt="CC-BY-SA" width="100px"></a>
 </footer>
 
         <?php $this->printTrail(); ?>
